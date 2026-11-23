@@ -1,10 +1,12 @@
 # Hola, soy Santiago Suarez 👋
 
-Estudiante de sexto semestre de Ingeniería de Sistemas en Bogotá, Colombia.
-Me apasiona el desarrollo web full stack y las bases de datos, y aprendo construyendo proyectos reales.
+Me interesa el desarrollo web (frontend y backend) y las bases de datos, y aprendo construyendo proyectos.
 
 ## 🛠️ Tecnologías
-PHP · JavaScript · TypeScript · Vue · Python · SQL Server · MySQL · Docker · Git
+
+**Con las que he trabajado en proyectos:** PHP · JavaScript · MySQL · Git
+
+**Que estoy aprendiendo:** TypeScript · Vue · Python · Java · Docker · SQL Server
 
 ## 📂 Proyectos destacados
 - [digital-legacy-completo](https://github.com/Santys2004/digital-legacy-completo):proyecto universitario enfocado en la gestión de herencia de bienes digitales.
